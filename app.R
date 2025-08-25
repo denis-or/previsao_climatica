@@ -8,7 +8,7 @@ ui <- bslib::page_fluid(
 		color = "transparent",
 		html = waiter::spin_loaders(
 			id = 6,
-			color = "#243163",
+			color = "#BABABA",
 			style = "height: 80px; width: 80px; border-radius: 80%;"
 		)
 	),
